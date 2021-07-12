@@ -1,12 +1,7 @@
-### Hi there 👋
+ Hi there 
 
 
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
-
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
+### Hi there👋! I'm Jean Kpoti
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -15,6 +10,8 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
