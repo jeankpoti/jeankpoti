@@ -1,7 +1,4 @@
- Hi there 
-
-
-### Hi there👋! I'm Jean Kpoti
+ ### Hi there👋! I'm Jean Kpoti
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -9,6 +6,7 @@
 - 🎓 &nbsp; Graduated AI Programming with Python on Udacity.
 - 💼 &nbsp; Currently working on some of my side projects based on Web Development.
 - 🌱 &nbsp; Learning more about Cloud Computing on GCP.
+- 🔭 I'm currently looking for opportunities. 
 
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
@@ -27,41 +25,36 @@
   
   - 💻 &nbsp;
     ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Django](https://img.shields.io/badge/-Python-333333?style=flat&logo=DJANGO)
+    ![Django](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
     ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  - 🛢 &nbsp;
-    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-  - <h3> 🛠 &nbsp;tools</h3>
-  
-  - 🔧 &nbsp;
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-    ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  
-  - 🖥 &nbsp;
-    ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
- 
+
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeankpoti&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankpoti&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;📫 How to reach me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jean-kpoti-3a0137143/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jeankpoti385@gmail.con"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 
 
 
