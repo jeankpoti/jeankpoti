@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Computing on GCP.
 - 🔭 &nbsp; I'm currently looking for opportunities. 
 
-<img align="right" alt=""  src="https://storyset.com/illustration/version-control/cuate/animate" />
+<img align="right" alt=""  src="https://storyset.com/illustration/version-control/cuate/animate"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
  
