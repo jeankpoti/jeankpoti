@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Computing on GCP.
 - 🔭 &nbsp; I'm currently looking for opportunities. 
 
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" alt="GIF" src="https://storyset.com/illustration/version-control/cuate" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
  
@@ -34,7 +34,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - <h3> 🛠 &nbsp;Tools</h3>
-- 
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
