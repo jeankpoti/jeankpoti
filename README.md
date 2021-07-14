@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; A Full-Stack Developer & Open Source enthusiast.
-- 🎓 &nbsp; Graduated AI Programming with Python on Udacity.
+- 🎓 &nbsp; I got a certificate in AI programming with Python on Udacity.
 - 💼 &nbsp; Currently working on some of my side projects based on Web Development.
 - 🌱 &nbsp; Learning more about Cloud Computing on GCP.
 - 🔭 &nbsp; I'm currently looking for opportunities. 
