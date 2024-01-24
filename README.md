@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A Full-Stack Developer & Open Source enthusiast.
-- 🎓 &nbsp; I got a certificate in AI programming with Python on Udacity.
+- 🤔 &nbsp; A Frontend Developer & Open Source enthusiast.
+- 🎓 &nbsp; I got a certificate in Web Development on FreeCodeCamp.
 - 💼 &nbsp; Currently working on some of my side projects based on Web Development.
 - 🌱 &nbsp; Learning more about Cloud Computing on GCP.
 - 🔭 &nbsp; I'm currently looking for opportunities. 
@@ -20,13 +20,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-    
-  - <h3> 🛠 &nbsp;Backend</h3>
-  
-  - 💻 &nbsp;
-    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Django](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 
 - 🛢 &nbsp;
