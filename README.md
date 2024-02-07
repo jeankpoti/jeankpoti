@@ -19,8 +19,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next JS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
-  ![Next JS](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![Next JS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+  ![Next JS](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=04599C)
 
 
 - 🛢 &nbsp;
