@@ -23,9 +23,7 @@
   ![Next JS](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=04599C)
 
 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
   
 - <h3> 🛠 &nbsp;Tools</h3>
 
@@ -35,8 +33,7 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
 
 
 <h3> 🤝🏻 &nbsp;📫 How to reach me </h3>
