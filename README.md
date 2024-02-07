@@ -5,7 +5,6 @@
 - 🤔 &nbsp; A Frontend Developer & Open Source enthusiast.
 - 🎓 &nbsp; I got a certificate in Web Development on FreeCodeCamp.
 - 💼 &nbsp; Currently working on some of my side projects based on Web Development.
-- 🌱 &nbsp; Learning more about Cloud Computing on GCP.
 - 🔭 &nbsp; I'm currently looking for opportunities. 
 
 <img align="right" alt=""  src="https://storyset.com/illustration/version-control/cuate/animate"/>
@@ -18,8 +17,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next JS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![Next JS](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 
 - 🛢 &nbsp;
