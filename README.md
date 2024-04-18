@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A Frontend Developer & Open Source enthusiast.
+- 🤔 &nbsp; A Frontend Developer(Flutter | React JS | Next JS)
 - 🎓 &nbsp; I got a certificate in Web Development from FreeCodeCamp.
 - 💼 &nbsp; Currently working on some of my side projects based on Web Development.
 - 🔭 &nbsp; I'm currently looking for opportunities. 
