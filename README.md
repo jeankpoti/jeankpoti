@@ -3,9 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Software Engineer | Specializing in AI-Integrated Mobile & Web Apps (Flutter, React, Next JS) | Transforming LLM capabilities into functional UX
-- 🎓 &nbsp; I got a certificate in Web Development from FreeCodeCamp.
-- 💼 &nbsp; Currently working on some of my side projects based on Web and Mobile Development.
-- 🔭 &nbsp; I'm currently looking for opportunities. 
 
 <img align="right" alt=""  src="https://storyset.com/illustration/version-control/cuate/animate"/>
 
